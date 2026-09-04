@@ -1,7 +1,7 @@
 # -- -- 
 
 - git subtree add --prefix=Git.Ext https://github.com/247i/Git.Ext  முதன்மை --squash
-- git subtree add --prefix=Git.Ext https://github.com/247i/Git.Ext  முதன்மை --squash
+- git subtree add --prefix=SourceGit https://github.com/247i/SourceGit முதன்மை --squash
 - git submodule add https://github.com/247i/GitHubDesktop
 
 # யாராவது Azhagi ரிப்போசிட்டரியில் மாற்றம் செய்து, அதை நீங்கள் Git.Ext ஃபோல்டரில் புதுப்பிக்க விரும்பினால்:
