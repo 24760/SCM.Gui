@@ -1,7 +1,6 @@
 # -- -- 
 
-- git submodule add https://github.com/247i/Git 
-- git submodule add https://github.com/247i/GitExt.git 
+- git subtree add --prefix=Git.Ext https://github.com/247i/Git.Ext  முதன்மை --squash
 - git submodule add https://github.com/247i/WinMerge.git 
 - git submodule add https://github.com/247i/GitHubDesktop  
 
