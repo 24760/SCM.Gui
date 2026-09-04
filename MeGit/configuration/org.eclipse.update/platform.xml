@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1785917085843" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.39.0.v20241018-1213/" version="2.39.0.v20241018-1213">
+</feature>
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.3.2000.v20241120-1800/" version="2.3.2000.v20241120-1800">
+</feature>
+<feature id="org.eclipse.egit.gitflow.feature" plugin-identifier="org.eclipse.egit.gitflow" url="features/org.eclipse.egit.gitflow.feature_7.1.0.202411261347-r/" version="7.1.0.202411261347-r">
+</feature>
+<feature id="org.eclipse.jgit.http.apache" url="features/org.eclipse.jgit.http.apache_7.1.0.202411261347-r/" version="7.1.0.202411261347-r">
+</feature>
+<feature id="org.eclipse.tm4e.language_pack.feature" url="features/org.eclipse.tm4e.language_pack.feature_0.14.0.202410282056/" version="0.14.0.202410282056">
+</feature>
+<feature id="org.eclipse.jgit.ssh.apache" url="features/org.eclipse.jgit.ssh.apache_7.1.0.202411261347-r/" version="7.1.0.202411261347-r">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.34.0.v20241120-1800/" version="4.34.0.v20241120-1800">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.33.0.v20240911-1027/" version="2.33.0.v20240911-1027">
+</feature>
+<feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_7.1.0.202411261347-r/" version="7.1.0.202411261347-r">
+</feature>
+<feature id="org.eclipse.egit" url="features/org.eclipse.egit_7.1.0.202411261347-r/" version="7.1.0.202411261347-r">
+</feature>
+<feature id="org.eclipse.tm4e.feature" url="features/org.eclipse.tm4e.feature_0.14.0.202410282056/" version="0.14.0.202410282056">
+</feature>
+<feature id="org.eclipse.jgit.lfs" url="features/org.eclipse.jgit.lfs_7.1.0.202411261347-r/" version="7.1.0.202411261347-r">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.34.0.v20241120-1800/" version="4.34.0.v20241120-1800">
+</feature>
+<feature id="org.eclipse.jgit.gpg.bc" url="features/org.eclipse.jgit.gpg.bc_7.1.0.202411261347-r/" version="7.1.0.202411261347-r">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_4.34.0.v20241113-2009/" version="4.34.0.v20241113-2009">
+</feature>
+</site>
+</config>

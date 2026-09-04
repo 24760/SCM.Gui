@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.egit.gitflow.feature:7.1.0.202411261347-r"/>
+		<item value="org.eclipse.egit:7.1.0.202411261347-r"/>
+		<item value="org.eclipse.emf.common:2.33.0.v20240911-1027"/>
+		<item value="org.eclipse.emf.ecore:2.39.0.v20241018-1213"/>
+		<item value="org.eclipse.help:2.3.2000.v20241120-1800"/>
+		<item value="org.eclipse.jgit.gpg.bc:7.1.0.202411261347-r"/>
+		<item value="org.eclipse.jgit.http.apache:7.1.0.202411261347-r"/>
+		<item value="org.eclipse.jgit.lfs:7.1.0.202411261347-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:7.1.0.202411261347-r"/>
+		<item value="org.eclipse.jgit:7.1.0.202411261347-r"/>
+		<item value="org.eclipse.platform:4.34.0.v20241120-1800"/>
+		<item value="org.eclipse.rcp:4.34.0.v20241120-1800"/>
+	</list>
+</section>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1734368776187" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.platform" version="4.34.0.v20241120-1800" url="features/org.eclipse.platform_4.34.0.v20241120-1800/">
+		</feature>
+		<feature id="org.eclipse.tm4e.language_pack.feature" version="0.14.0.202410282056" url="features/org.eclipse.tm4e.language_pack.feature_0.14.0.202410282056/">
+		</feature>
+		<feature id="org.eclipse.jgit.http.apache" version="7.1.0.202411261347-r" url="features/org.eclipse.jgit.http.apache_7.1.0.202411261347-r/">
+		</feature>
+		<feature id="org.eclipse.jgit" version="7.1.0.202411261347-r" url="features/org.eclipse.jgit_7.1.0.202411261347-r/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.39.0.v20241018-1213" url="features/org.eclipse.emf.ecore_2.39.0.v20241018-1213/">
+		</feature>
+		<feature id="org.eclipse.egit.gitflow.feature" version="7.1.0.202411261347-r" url="features/org.eclipse.egit.gitflow.feature_7.1.0.202411261347-r/" plugin-identifier="org.eclipse.egit.gitflow">
+		</feature>
+		<feature id="org.eclipse.egit" version="7.1.0.202411261347-r" url="features/org.eclipse.egit_7.1.0.202411261347-r/">
+		</feature>
+		<feature id="org.eclipse.tm4e.feature" version="0.14.0.202410282056" url="features/org.eclipse.tm4e.feature_0.14.0.202410282056/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.34.0.v20241113-2009" url="features/org.eclipse.e4.rcp_4.34.0.v20241113-2009/">
+		</feature>
+		<feature id="org.eclipse.jgit.ssh.apache" version="7.1.0.202411261347-r" url="features/org.eclipse.jgit.ssh.apache_7.1.0.202411261347-r/">
+		</feature>
+		<feature id="org.eclipse.jgit.lfs" version="7.1.0.202411261347-r" url="features/org.eclipse.jgit.lfs_7.1.0.202411261347-r/">
+		</feature>
+		<feature id="org.eclipse.jgit.gpg.bc" version="7.1.0.202411261347-r" url="features/org.eclipse.jgit.gpg.bc_7.1.0.202411261347-r/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.34.0.v20241120-1800" url="features/org.eclipse.rcp_4.34.0.v20241120-1800/">
+		</feature>
+		<feature id="org.eclipse.help" version="2.3.2000.v20241120-1800" url="features/org.eclipse.help_2.3.2000.v20241120-1800/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.33.0.v20240911-1027" url="features/org.eclipse.emf.common_2.33.0.v20240911-1027/">
+		</feature>
+	</site>
+</config>
